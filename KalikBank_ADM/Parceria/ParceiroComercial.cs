@@ -2,7 +2,7 @@
 
 namespace KalikBank_ADM.Parceria
 {
-    public class ParceiroComercial : iAutenticavel
+    public class ParceiroComercial : IAutenticavel
     {
         public string Senha { get; set; }
         public string CNPJ { get; set; }

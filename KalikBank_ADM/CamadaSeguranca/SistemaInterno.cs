@@ -4,7 +4,7 @@ namespace KalikBank_ADM.CamadaSeguranca
 {
     public class SistemaInterno
     {
-        public bool Logar(iAutenticavel funcionario, string senha, string loginCpf)
+        public bool Logar(IAutenticavel funcionario, string senha, string loginCpf)
         {
             bool autenticacao = funcionario.Autenticar(senha, loginCpf);
 

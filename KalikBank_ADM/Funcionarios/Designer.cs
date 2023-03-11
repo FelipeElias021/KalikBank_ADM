@@ -10,9 +10,9 @@ namespace KalikBank_ADM.Funcionarios
     {
         public Designer(string nome, string cpf) : base(nome, cpf, 3000) { }
 
-        public override double GetBonificacao()
+        public override void RegistrarBonificacao()
         {
-            return Salario * 0.17;
+            TotalBonificacao += Salario * 0.17;
         }
 
         public override void AumentarSalario()

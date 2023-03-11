@@ -2,7 +2,7 @@
 
 namespace KalikBank_ADM.CamadaSeguranca
 {
-    public interface iAutenticavel
+    public interface IAutenticavel
     {
         public string Senha { get; set; }
 

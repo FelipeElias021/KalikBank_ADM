@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace KalikBank_ADM.Funcionarios
 {
-    public abstract class FuncionarioAutenticavel : Funcionario, iAutenticavel
+    public abstract class FuncionarioAutenticavel : Funcionario, IAutenticavel
     {
         public string Senha { get; set; }
         protected FuncionarioAutenticavel(string nome, string cpf, string senha, double salario) : base(nome, cpf, salario)
