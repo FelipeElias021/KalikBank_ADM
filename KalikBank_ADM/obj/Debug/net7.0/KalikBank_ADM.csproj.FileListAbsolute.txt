@@ -1,0 +1,15 @@
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\bin\Debug\net7.0\KalikBank_ADM.exe
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\bin\Debug\net7.0\KalikBank_ADM.deps.json
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\bin\Debug\net7.0\KalikBank_ADM.runtimeconfig.json
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\bin\Debug\net7.0\KalikBank_ADM.dll
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\bin\Debug\net7.0\KalikBank_ADM.pdb
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\KalikBank_ADM.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\KalikBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\KalikBank_ADM.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\KalikBank_ADM.AssemblyInfo.cs
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\KalikBank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\KalikBank_ADM.dll
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\refint\KalikBank_ADM.dll
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\KalikBank_ADM.pdb
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\KalikBank_ADM.genruntimeconfig.cache
+C:\Users\Felipe\Documents\2023\Alura\03 - Herança e Interfaces\KalikBank_ADM\KalikBank_ADM\obj\Debug\net7.0\ref\KalikBank_ADM.dll
